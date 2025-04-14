@@ -20,5 +20,8 @@ Finally, We pushing the textual data to output.docx file.
 <img width="724" alt="image" src="https://github.com/user-attachments/assets/2a383f7e-ef7a-4333-b120-de548ea9405c" />
 
 Here, We didn't use any type of ML or, NLP libraries, No LLMs or APIs related to them.
-
+The Input file looks like the following 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/2c11887f-4711-4a47-9704-2aeb95add1c7" />
+The Output file looks like the following
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b413bf09-f034-49c1-8eb7-8c2184d1bb64" />
 
